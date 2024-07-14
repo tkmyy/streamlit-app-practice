@@ -1,8 +1,4 @@
-langchain==0.1.5
-langchain-community==0.0.17
 langchain-core==0.1.18
-langchain-experimental==0.0.50
 langchain-openai==0.1.16
-langchainhub==0.1.14
 openai==1.11.0
 streamlit==1.30.0
